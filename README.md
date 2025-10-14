@@ -35,7 +35,7 @@ A **computer vision-based system** that detects **exam malpractice** using deep 
 
 - 🔭 Working on scalable **AI-driven backend systems** and **autonomous agents**.  
 - 👯 Open to collaboration on **AI research** and **open-source software**.  
-- 📫 Reach me at **[yourname@email.com](mailto:azeezogundeko19@gmail.com)**.  
+- 📫 Reach me at **[azeezogundeko19@gmail.com](mailto:azeezogundeko19@gmail.com)**.  
 - 💬 Ask me anything about `AI`, `Backend Development`, or `Machine Learning`.  
 - ⚡ Fun fact: I love turning research ideas into real-world systems.  
 
